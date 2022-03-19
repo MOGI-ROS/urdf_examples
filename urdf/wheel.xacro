@@ -13,7 +13,7 @@
 				<origin xyz="0 0 0" rpy="0 ${M_PI/2} ${M_PI/2}" />
 				<geometry>
                     <cylinder length="${wheel_length}" radius="${wheel_radius}" />
-					<!--mesh filename="package://husky_description/meshes/wheel.dae" /-->
+                    <!--mesh filename = "package://urdf_examples/meshes/wheel.dae"/-->
 				</geometry>
                 <material name="green"/>
 			</visual>
