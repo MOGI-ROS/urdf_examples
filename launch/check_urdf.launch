@@ -2,7 +2,7 @@
 
 <launch>
 
-  <arg name="model" default="$(find urdf_examples)/urdf/urdf_test.xacro"/>
+  <arg name="model" default="$(find urdf_examples)/urdf/xacro_test.xacro"/>
   <arg name="gui" default="true" />
   <arg name="rvizconfig" default="$(find urdf_examples)/rviz/check_urdf.rviz" />
 
