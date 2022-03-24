@@ -37,7 +37,7 @@
     <visual name='base_link_visual'>
       <origin xyz="0 0 0" rpy="0 0 0"/>
       <geometry>
-        <box size=".4 .2 .15"/-->
+        <box size=".4 .2 .15"/>
         <!--mesh filename = "package://urdf_examples/meshes/base_link.dae"/-->
       </geometry>
       <material name="orange"/>
